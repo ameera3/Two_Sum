@@ -1,7 +1,7 @@
 # Two_Sum
 
 ## Usage
-To compile, type "g++ -o Two_Sum Two_Sum.cpp". To run the program, type "./Two_Sum 2Sum.txt".
+To compile, type "g++ -O3 -o Two_Sum Two_Sum.cpp". To run the program, type "./Two_Sum 2Sum.txt".
 
 ## Introduction
 The command line program Two_Sum.cpp takes in one parameter,
